@@ -1,0 +1,4364 @@
+{
+    "multigraph": false,
+    "graph": {},
+    "links": [
+        {
+            "weight": 3,
+            "target": "Viserys-Targaryen",
+            "source": "Doreah"
+        },
+        {
+            "weight": 3,
+            "target": "Jorah-Mormont",
+            "source": "Doreah"
+        },
+        {
+            "weight": 5,
+            "target": "Drogo",
+            "source": "Doreah"
+        },
+        {
+            "weight": 11,
+            "target": "Jhiqui",
+            "source": "Doreah"
+        },
+        {
+            "weight": 14,
+            "target": "Irri",
+            "source": "Doreah"
+        },
+        {
+            "weight": 15,
+            "target": "Daenerys-Targaryen",
+            "source": "Doreah"
+        },
+        {
+            "weight": 4,
+            "target": "Eddard-Stark",
+            "source": "Aegon-I-Targaryen"
+        },
+        {
+            "weight": 5,
+            "target": "Daenerys-Targaryen",
+            "source": "Aegon-I-Targaryen"
+        },
+        {
+            "weight": 7,
+            "target": "Viserys-Targaryen",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 26,
+            "target": "Sansa-Stark",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 291,
+            "target": "Eddard-Stark",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 32,
+            "target": "Jon-Arryn",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 42,
+            "target": "Renly-Baratheon",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 6,
+            "target": "Illyrio-Mopatis",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 5,
+            "target": "Brandon-Stark",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Myrcella-Baratheon",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Jeor-Mormont",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 8,
+            "target": "Raymun-Darry",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 8,
+            "target": "Arya-Stark",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 72,
+            "target": "Cersei-Lannister",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 11,
+            "target": "Bran-Stark",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 12,
+            "target": "Aerys-II-Targaryen",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 22,
+            "target": "Rhaegar-Targaryen",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 6,
+            "target": "Robb-Stark",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 18,
+            "target": "Tyrion-Lannister",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 40,
+            "target": "Barristan-Selmy",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Tommen-Baratheon",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 18,
+            "target": "Jon-Snow",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 22,
+            "target": "Catelyn-Stark",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 36,
+            "target": "Varys",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Benjen-Stark",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Janos-Slynt",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Meryn-Trant",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Gerold-Hightower",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Ilyn-Payne",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Balon-Greyjoy",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Loras-Tyrell",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Jorah-Mormont",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 26,
+            "target": "Pycelle",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 13,
+            "target": "Tywin-Lannister",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 24,
+            "target": "Jaime-Lannister",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Hoster-Tully",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Gregor-Clegane",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 21,
+            "target": "Stannis-Baratheon",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 5,
+            "target": "Lysa-Arryn",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Alyn",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 7,
+            "target": "Jory-Cassel",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 9,
+            "target": "Lyanna-Stark",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 11,
+            "target": "Daenerys-Targaryen",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 7,
+            "target": "Mordane",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Lancel-Lannister",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Vayon-Poole",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Jeyne-Poole",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 5,
+            "target": "Beric-Dondarrion",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Drogo",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 30,
+            "target": "Petyr-Baelish",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 9,
+            "target": "Sandor-Clegane",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 30,
+            "target": "Joffrey-Baratheon",
+            "source": "Robert-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Tyrion-Lannister",
+            "source": "Leo-Lefford"
+        },
+        {
+            "weight": 14,
+            "target": "Illyrio-Mopatis",
+            "source": "Viserys-Targaryen"
+        },
+        {
+            "weight": 15,
+            "target": "Jorah-Mormont",
+            "source": "Viserys-Targaryen"
+        },
+        {
+            "weight": 19,
+            "target": "Drogo",
+            "source": "Viserys-Targaryen"
+        },
+        {
+            "weight": 5,
+            "target": "Rhaegar-Targaryen",
+            "source": "Viserys-Targaryen"
+        },
+        {
+            "weight": 5,
+            "target": "Irri",
+            "source": "Viserys-Targaryen"
+        },
+        {
+            "weight": 37,
+            "target": "Daenerys-Targaryen",
+            "source": "Viserys-Targaryen"
+        },
+        {
+            "weight": 3,
+            "target": "Cersei-Lannister",
+            "source": "Arys-Oakheart"
+        },
+        {
+            "weight": 4,
+            "target": "Gerold-Hightower",
+            "source": "Arthur-Dayne"
+        },
+        {
+            "weight": 3,
+            "target": "Shagga",
+            "source": "Bronn"
+        },
+        {
+            "weight": 61,
+            "target": "Tyrion-Lannister",
+            "source": "Bronn"
+        },
+        {
+            "weight": 5,
+            "target": "Willis-Wode",
+            "source": "Bronn"
+        },
+        {
+            "weight": 11,
+            "target": "Vardis-Egen",
+            "source": "Bronn"
+        },
+        {
+            "weight": 4,
+            "target": "Rodrik-Cassel",
+            "source": "Bronn"
+        },
+        {
+            "weight": 8,
+            "target": "Chiggen",
+            "source": "Bronn"
+        },
+        {
+            "weight": 3,
+            "target": "Shae",
+            "source": "Bronn"
+        },
+        {
+            "weight": 4,
+            "target": "Marillion",
+            "source": "Bronn"
+        },
+        {
+            "weight": 4,
+            "target": "Tywin-Lannister",
+            "source": "Bronn"
+        },
+        {
+            "weight": 6,
+            "target": "Catelyn-Stark",
+            "source": "Bronn"
+        },
+        {
+            "weight": 19,
+            "target": "Stannis-Baratheon",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Tyrion-Lannister",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Robb-Stark",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 5,
+            "target": "Sansa-Stark",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 33,
+            "target": "Eddard-Stark",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 5,
+            "target": "Cersei-Lannister",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Bran-Stark",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Balon-Swann",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 5,
+            "target": "Loras-Tyrell",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 9,
+            "target": "Varys",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 13,
+            "target": "Barristan-Selmy",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 7,
+            "target": "Pycelle",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 4,
+            "target": "Jaime-Lannister",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 3,
+            "target": "Cayn",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 12,
+            "target": "Petyr-Baelish",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 7,
+            "target": "Sandor-Clegane",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 9,
+            "target": "Joffrey-Baratheon",
+            "source": "Renly-Baratheon"
+        },
+        {
+            "weight": 5,
+            "target": "Meryn-Trant",
+            "source": "Syrio-Forel"
+        },
+        {
+            "weight": 20,
+            "target": "Arya-Stark",
+            "source": "Syrio-Forel"
+        },
+        {
+            "weight": 6,
+            "target": "Eddard-Stark",
+            "source": "Syrio-Forel"
+        },
+        {
+            "weight": 5,
+            "target": "Lysa-Arryn",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 4,
+            "target": "Karyl-Vance",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 4,
+            "target": "Petyr-Baelish",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 3,
+            "target": "Tytos-Blackwood",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 5,
+            "target": "Robb-Stark",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 3,
+            "target": "Eddard-Stark",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 4,
+            "target": "Jaime-Lannister",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 3,
+            "target": "Brynden-Tully",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 3,
+            "target": "Marq-Piper",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 7,
+            "target": "Hoster-Tully",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 7,
+            "target": "Catelyn-Stark",
+            "source": "Edmure-Tully"
+        },
+        {
+            "weight": 34,
+            "target": "Jon-Snow",
+            "source": "Aemon-Targaryen-(Maester-Aemon)"
+        },
+        {
+            "weight": 4,
+            "target": "Bowen-Marsh",
+            "source": "Aemon-Targaryen-(Maester-Aemon)"
+        },
+        {
+            "weight": 13,
+            "target": "Jeor-Mormont",
+            "source": "Aemon-Targaryen-(Maester-Aemon)"
+        },
+        {
+            "weight": 5,
+            "target": "Samwell-Tarly",
+            "source": "Aemon-Targaryen-(Maester-Aemon)"
+        },
+        {
+            "weight": 9,
+            "target": "Chett",
+            "source": "Aemon-Targaryen-(Maester-Aemon)"
+        },
+        {
+            "weight": 4,
+            "target": "Alliser-Thorne",
+            "source": "Aemon-Targaryen-(Maester-Aemon)"
+        },
+        {
+            "weight": 5,
+            "target": "Clydas",
+            "source": "Aemon-Targaryen-(Maester-Aemon)"
+        },
+        {
+            "weight": 4,
+            "target": "Aerys-II-Targaryen",
+            "source": "Brandon-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Lyanna-Stark",
+            "source": "Brandon-Stark"
+        },
+        {
+            "weight": 11,
+            "target": "Eddard-Stark",
+            "source": "Brandon-Stark"
+        },
+        {
+            "weight": 14,
+            "target": "Petyr-Baelish",
+            "source": "Brandon-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Rickard-Stark",
+            "source": "Brandon-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Colemon",
+            "source": "Vardis-Egen"
+        },
+        {
+            "weight": 5,
+            "target": "Lysa-Arryn",
+            "source": "Vardis-Egen"
+        },
+        {
+            "weight": 3,
+            "target": "Eon-Hunter",
+            "source": "Vardis-Egen"
+        },
+        {
+            "weight": 9,
+            "target": "Tyrion-Lannister",
+            "source": "Vardis-Egen"
+        },
+        {
+            "weight": 5,
+            "target": "Catelyn-Stark",
+            "source": "Vardis-Egen"
+        },
+        {
+            "weight": 3,
+            "target": "Bran-Stark",
+            "source": "Hallis-Mollen"
+        },
+        {
+            "weight": 7,
+            "target": "Theon-Greyjoy",
+            "source": "Hallis-Mollen"
+        },
+        {
+            "weight": 13,
+            "target": "Robb-Stark",
+            "source": "Hallis-Mollen"
+        },
+        {
+            "weight": 4,
+            "target": "Luwin",
+            "source": "Hallis-Mollen"
+        },
+        {
+            "weight": 10,
+            "target": "Catelyn-Stark",
+            "source": "Hallis-Mollen"
+        },
+        {
+            "weight": 4,
+            "target": "Theon-Greyjoy",
+            "source": "Walder-Frey"
+        },
+        {
+            "weight": 7,
+            "target": "Robb-Stark",
+            "source": "Walder-Frey"
+        },
+        {
+            "weight": 8,
+            "target": "Tywin-Lannister",
+            "source": "Walder-Frey"
+        },
+        {
+            "weight": 3,
+            "target": "Stevron-Frey",
+            "source": "Walder-Frey"
+        },
+        {
+            "weight": 3,
+            "target": "Brynden-Tully",
+            "source": "Walder-Frey"
+        },
+        {
+            "weight": 3,
+            "target": "Danwell-Frey",
+            "source": "Walder-Frey"
+        },
+        {
+            "weight": 13,
+            "target": "Catelyn-Stark",
+            "source": "Walder-Frey"
+        },
+        {
+            "weight": 3,
+            "target": "Daryn-Hornwood",
+            "source": "Torrhen-Karstark"
+        },
+        {
+            "weight": 3,
+            "target": "Robb-Stark",
+            "source": "Torrhen-Karstark"
+        },
+        {
+            "weight": 5,
+            "target": "Eddard-Stark",
+            "source": "Torrhen-Karstark"
+        },
+        {
+            "weight": 6,
+            "target": "Tyrion-Lannister",
+            "source": "Jyck"
+        },
+        {
+            "weight": 5,
+            "target": "Morrec",
+            "source": "Jyck"
+        },
+        {
+            "weight": 6,
+            "target": "Jon-Snow",
+            "source": "Dareon"
+        },
+        {
+            "weight": 10,
+            "target": "Eddard-Stark",
+            "source": "Aerys-II-Targaryen"
+        },
+        {
+            "weight": 5,
+            "target": "Jaime-Lannister",
+            "source": "Aerys-II-Targaryen"
+        },
+        {
+            "weight": 3,
+            "target": "Gerold-Hightower",
+            "source": "Aerys-II-Targaryen"
+        },
+        {
+            "weight": 3,
+            "target": "Jon-Arryn",
+            "source": "Aerys-II-Targaryen"
+        },
+        {
+            "weight": 5,
+            "target": "Jorah-Mormont",
+            "source": "Rhaegar-Targaryen"
+        },
+        {
+            "weight": 3,
+            "target": "Sansa-Stark",
+            "source": "Rhaegar-Targaryen"
+        },
+        {
+            "weight": 10,
+            "target": "Eddard-Stark",
+            "source": "Rhaegar-Targaryen"
+        },
+        {
+            "weight": 4,
+            "target": "Tywin-Lannister",
+            "source": "Rhaegar-Targaryen"
+        },
+        {
+            "weight": 4,
+            "target": "Daenerys-Targaryen",
+            "source": "Rhaegar-Targaryen"
+        },
+        {
+            "weight": 4,
+            "target": "Shagga",
+            "source": "Ulf-son-of-Umar"
+        },
+        {
+            "weight": 6,
+            "target": "Yoren",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 41,
+            "target": "Benjen-Stark",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 81,
+            "target": "Samwell-Tarly",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 7,
+            "target": "Jaremy-Rykker",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 31,
+            "target": "Grenn",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 38,
+            "target": "Eddard-Stark",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 13,
+            "target": "Todder",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 5,
+            "target": "Othor",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 32,
+            "target": "Alliser-Thorne",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 8,
+            "target": "Rast",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 11,
+            "target": "Rickon-Stark",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 45,
+            "target": "Pypar",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 5,
+            "target": "Hobb",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 10,
+            "target": "Luwin",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 8,
+            "target": "Theon-Greyjoy",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 81,
+            "target": "Jeor-Mormont",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 14,
+            "target": "Catelyn-Stark",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 4,
+            "target": "Chett",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 3,
+            "target": "Jory-Cassel",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 37,
+            "target": "Arya-Stark",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 8,
+            "target": "Sansa-Stark",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 5,
+            "target": "Albett",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 4,
+            "target": "Cersei-Lannister",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 4,
+            "target": "Dywen",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 4,
+            "target": "Mordane",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 53,
+            "target": "Robb-Stark",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 3,
+            "target": "Matthar",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 56,
+            "target": "Tyrion-Lannister",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 7,
+            "target": "Donal-Noye",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 3,
+            "target": "Rodrik-Cassel",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 23,
+            "target": "Halder",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 56,
+            "target": "Bran-Stark",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 10,
+            "target": "Bowen-Marsh",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 10,
+            "target": "Joffrey-Baratheon",
+            "source": "Jon-Snow"
+        },
+        {
+            "weight": 3,
+            "target": "Lysa-Arryn",
+            "source": "Lyn-Corbray"
+        },
+        {
+            "weight": 15,
+            "target": "Tyrion-Lannister",
+            "source": "Kevan-Lannister"
+        },
+        {
+            "weight": 4,
+            "target": "Jaime-Lannister",
+            "source": "Kevan-Lannister"
+        },
+        {
+            "weight": 9,
+            "target": "Tywin-Lannister",
+            "source": "Kevan-Lannister"
+        },
+        {
+            "weight": 10,
+            "target": "Tyrion-Lannister",
+            "source": "Yoren"
+        },
+        {
+            "weight": 4,
+            "target": "Benjen-Stark",
+            "source": "Yoren"
+        },
+        {
+            "weight": 4,
+            "target": "Arya-Stark",
+            "source": "Yoren"
+        },
+        {
+            "weight": 3,
+            "target": "Robb-Stark",
+            "source": "Yoren"
+        },
+        {
+            "weight": 3,
+            "target": "Bran-Stark",
+            "source": "Yoren"
+        },
+        {
+            "weight": 3,
+            "target": "Jeor-Mormont",
+            "source": "Yoren"
+        },
+        {
+            "weight": 4,
+            "target": "Eddard-Stark",
+            "source": "Raymun-Darry"
+        },
+        {
+            "weight": 5,
+            "target": "Sansa-Stark",
+            "source": "Meryn-Trant"
+        },
+        {
+            "weight": 4,
+            "target": "Arya-Stark",
+            "source": "Meryn-Trant"
+        },
+        {
+            "weight": 3,
+            "target": "Barristan-Selmy",
+            "source": "Meryn-Trant"
+        },
+        {
+            "weight": 4,
+            "target": "Cersei-Lannister",
+            "source": "Meryn-Trant"
+        },
+        {
+            "weight": 5,
+            "target": "Boros-Blount",
+            "source": "Meryn-Trant"
+        },
+        {
+            "weight": 4,
+            "target": "Sandor-Clegane",
+            "source": "Meryn-Trant"
+        },
+        {
+            "weight": 3,
+            "target": "Joffrey-Baratheon",
+            "source": "Meryn-Trant"
+        },
+        {
+            "weight": 3,
+            "target": "Oswell-Whent",
+            "source": "Gerold-Hightower"
+        },
+        {
+            "weight": 3,
+            "target": "Eddard-Stark",
+            "source": "Gerold-Hightower"
+        },
+        {
+            "weight": 3,
+            "target": "Loras-Tyrell",
+            "source": "Ilyn-Payne"
+        },
+        {
+            "weight": 5,
+            "target": "Arya-Stark",
+            "source": "Ilyn-Payne"
+        },
+        {
+            "weight": 5,
+            "target": "Varys",
+            "source": "Ilyn-Payne"
+        },
+        {
+            "weight": 3,
+            "target": "Jeyne-Poole",
+            "source": "Ilyn-Payne"
+        },
+        {
+            "weight": 9,
+            "target": "Sansa-Stark",
+            "source": "Ilyn-Payne"
+        },
+        {
+            "weight": 6,
+            "target": "Eddard-Stark",
+            "source": "Ilyn-Payne"
+        },
+        {
+            "weight": 4,
+            "target": "Cersei-Lannister",
+            "source": "Ilyn-Payne"
+        },
+        {
+            "weight": 4,
+            "target": "Joffrey-Baratheon",
+            "source": "Ilyn-Payne"
+        },
+        {
+            "weight": 5,
+            "target": "Mirri-Maz-Duur",
+            "source": "Jorah-Mormont"
+        },
+        {
+            "weight": 4,
+            "target": "Irri",
+            "source": "Jorah-Mormont"
+        },
+        {
+            "weight": 5,
+            "target": "Aggo",
+            "source": "Jorah-Mormont"
+        },
+        {
+            "weight": 7,
+            "target": "Qotho",
+            "source": "Jorah-Mormont"
+        },
+        {
+            "weight": 7,
+            "target": "Illyrio-Mopatis",
+            "source": "Jorah-Mormont"
+        },
+        {
+            "weight": 16,
+            "target": "Drogo",
+            "source": "Jorah-Mormont"
+        },
+        {
+            "weight": 4,
+            "target": "Jhiqui",
+            "source": "Jorah-Mormont"
+        },
+        {
+            "weight": 5,
+            "target": "Jhogo",
+            "source": "Jorah-Mormont"
+        },
+        {
+            "weight": 75,
+            "target": "Daenerys-Targaryen",
+            "source": "Jorah-Mormont"
+        },
+        {
+            "weight": 3,
+            "target": "Stannis-Baratheon",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 17,
+            "target": "Varys",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 3,
+            "target": "Janos-Slynt",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 8,
+            "target": "Sansa-Stark",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 33,
+            "target": "Eddard-Stark",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 9,
+            "target": "Cersei-Lannister",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 11,
+            "target": "Jon-Arryn",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 8,
+            "target": "Barristan-Selmy",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 4,
+            "target": "Tywin-Lannister",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 3,
+            "target": "Gregor-Clegane",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 14,
+            "target": "Petyr-Baelish",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 4,
+            "target": "Joffrey-Baratheon",
+            "source": "Pycelle"
+        },
+        {
+            "weight": 4,
+            "target": "Varys",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 18,
+            "target": "Eddard-Stark",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Theon-Greyjoy",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Marq-Piper",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 16,
+            "target": "Jaime-Lannister",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 4,
+            "target": "Roose-Bolton",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Brynden-Tully",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 7,
+            "target": "Catelyn-Stark",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 4,
+            "target": "Stannis-Baratheon",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 6,
+            "target": "Addam-Marbrand",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 10,
+            "target": "Cersei-Lannister",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 40,
+            "target": "Tyrion-Lannister",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 9,
+            "target": "Robb-Stark",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 6,
+            "target": "Gregor-Clegane",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Jon-Umber-(Greatjon)",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Joffrey-Baratheon",
+            "source": "Tywin-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Brynden-Tully",
+            "source": "Nestor-Royce"
+        },
+        {
+            "weight": 3,
+            "target": "Catelyn-Stark",
+            "source": "Nestor-Royce"
+        },
+        {
+            "weight": 5,
+            "target": "Catelyn-Stark",
+            "source": "Stevron-Frey"
+        },
+        {
+            "weight": 4,
+            "target": "Galbart-Glover",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 7,
+            "target": "Jon-Umber-(Greatjon)",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 3,
+            "target": "Luwin",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 4,
+            "target": "Eddard-Stark",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 4,
+            "target": "Bran-Stark",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 3,
+            "target": "Roose-Bolton",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 3,
+            "target": "Maege-Mormont",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 9,
+            "target": "Robb-Stark",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 3,
+            "target": "Jaime-Lannister",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 6,
+            "target": "Catelyn-Stark",
+            "source": "Rickard-Karstark"
+        },
+        {
+            "weight": 6,
+            "target": "Samwell-Tarly",
+            "source": "Chett"
+        },
+        {
+            "weight": 8,
+            "target": "Jory-Cassel",
+            "source": "Alyn"
+        },
+        {
+            "weight": 3,
+            "target": "Tomard",
+            "source": "Alyn"
+        },
+        {
+            "weight": 6,
+            "target": "Harwin",
+            "source": "Alyn"
+        },
+        {
+            "weight": 11,
+            "target": "Eddard-Stark",
+            "source": "Alyn"
+        },
+        {
+            "weight": 3,
+            "target": "Stannis-Baratheon",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 12,
+            "target": "Arya-Stark",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 4,
+            "target": "Harwin",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 32,
+            "target": "Eddard-Stark",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 5,
+            "target": "Cersei-Lannister",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 11,
+            "target": "Bran-Stark",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 3,
+            "target": "Mordane",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 4,
+            "target": "Jaime-Lannister",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 9,
+            "target": "Sansa-Stark",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 5,
+            "target": "Vayon-Poole",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 5,
+            "target": "Rodrik-Cassel",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 9,
+            "target": "Robb-Stark",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 5,
+            "target": "Hullen",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 5,
+            "target": "Heward",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 3,
+            "target": "Theon-Greyjoy",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 8,
+            "target": "Petyr-Baelish",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 6,
+            "target": "Wyl-(guard)",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 5,
+            "target": "Tomard",
+            "source": "Jory-Cassel"
+        },
+        {
+            "weight": 3,
+            "target": "Jaremy-Rykker",
+            "source": "Jafer-Flowers"
+        },
+        {
+            "weight": 4,
+            "target": "Sansa-Stark",
+            "source": "Lyanna-Stark"
+        },
+        {
+            "weight": 19,
+            "target": "Eddard-Stark",
+            "source": "Lyanna-Stark"
+        },
+        {
+            "weight": 39,
+            "target": "Arya-Stark",
+            "source": "Mordane"
+        },
+        {
+            "weight": 7,
+            "target": "Jeyne-Poole",
+            "source": "Mordane"
+        },
+        {
+            "weight": 43,
+            "target": "Sansa-Stark",
+            "source": "Mordane"
+        },
+        {
+            "weight": 11,
+            "target": "Eddard-Stark",
+            "source": "Mordane"
+        },
+        {
+            "weight": 3,
+            "target": "Cersei-Lannister",
+            "source": "Mordane"
+        },
+        {
+            "weight": 12,
+            "target": "Myrcella-Baratheon",
+            "source": "Mordane"
+        },
+        {
+            "weight": 3,
+            "target": "Petyr-Baelish",
+            "source": "Mordane"
+        },
+        {
+            "weight": 9,
+            "target": "Joffrey-Baratheon",
+            "source": "Mordane"
+        },
+        {
+            "weight": 4,
+            "target": "Loras-Tyrell",
+            "source": "Jeyne-Poole"
+        },
+        {
+            "weight": 10,
+            "target": "Arya-Stark",
+            "source": "Jeyne-Poole"
+        },
+        {
+            "weight": 27,
+            "target": "Sansa-Stark",
+            "source": "Jeyne-Poole"
+        },
+        {
+            "weight": 7,
+            "target": "Benjen-Stark",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 15,
+            "target": "Rodrik-Cassel",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 16,
+            "target": "Eddard-Stark",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 37,
+            "target": "Theon-Greyjoy",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 6,
+            "target": "Roose-Bolton",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Nan",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Stiv",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Hullen",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 9,
+            "target": "Jaime-Lannister",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 5,
+            "target": "Galbart-Glover",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 9,
+            "target": "Brynden-Tully",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 49,
+            "target": "Catelyn-Stark",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 15,
+            "target": "Arya-Stark",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 112,
+            "target": "Bran-Stark",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Samwell-Tarly",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 5,
+            "target": "Hodor",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 20,
+            "target": "Rickon-Stark",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 11,
+            "target": "Tyrion-Lannister",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Osha",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 13,
+            "target": "Sansa-Stark",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 20,
+            "target": "Luwin",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Wendel-Manderly",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 8,
+            "target": "Jon-Umber-(Greatjon)",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 19,
+            "target": "Joffrey-Baratheon",
+            "source": "Robb-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Lysa-Arryn",
+            "source": "Eon-Hunter"
+        },
+        {
+            "weight": 3,
+            "target": "Catelyn-Stark",
+            "source": "Eon-Hunter"
+        },
+        {
+            "weight": 4,
+            "target": "Bran-Stark",
+            "source": "Stiv"
+        },
+        {
+            "weight": 3,
+            "target": "Janos-Slynt",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 7,
+            "target": "Rodrik-Cassel",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 81,
+            "target": "Eddard-Stark",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 4,
+            "target": "Lysa-Arryn",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 8,
+            "target": "Sansa-Stark",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 7,
+            "target": "Jaime-Lannister",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 22,
+            "target": "Catelyn-Stark",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 29,
+            "target": "Varys",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 5,
+            "target": "Loras-Tyrell",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 4,
+            "target": "Tomard",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 3,
+            "target": "Arya-Stark",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 13,
+            "target": "Cersei-Lannister",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 3,
+            "target": "Bran-Stark",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 4,
+            "target": "Jon-Arryn",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 11,
+            "target": "Tyrion-Lannister",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 7,
+            "target": "Barristan-Selmy",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 3,
+            "target": "Gregor-Clegane",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 3,
+            "target": "Sandor-Clegane",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 11,
+            "target": "Joffrey-Baratheon",
+            "source": "Petyr-Baelish"
+        },
+        {
+            "weight": 5,
+            "target": "Tyrion-Lannister",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 5,
+            "target": "Mycah",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 7,
+            "target": "Arya-Stark",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 23,
+            "target": "Sansa-Stark",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 10,
+            "target": "Eddard-Stark",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 4,
+            "target": "Loras-Tyrell",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 5,
+            "target": "Cersei-Lannister",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 3,
+            "target": "Barristan-Selmy",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 3,
+            "target": "Balon-Swann",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 12,
+            "target": "Jaime-Lannister",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 11,
+            "target": "Gregor-Clegane",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 24,
+            "target": "Joffrey-Baratheon",
+            "source": "Sandor-Clegane"
+        },
+        {
+            "weight": 4,
+            "target": "Catelyn-Stark",
+            "source": "Jon-Umber-(Greatjon)"
+        },
+        {
+            "weight": 4,
+            "target": "Galbart-Glover",
+            "source": "Jon-Umber-(Greatjon)"
+        },
+        {
+            "weight": 5,
+            "target": "Theon-Greyjoy",
+            "source": "Jon-Umber-(Greatjon)"
+        },
+        {
+            "weight": 3,
+            "target": "Roose-Bolton",
+            "source": "Jon-Umber-(Greatjon)"
+        },
+        {
+            "weight": 5,
+            "target": "Maege-Mormont",
+            "source": "Jon-Umber-(Greatjon)"
+        },
+        {
+            "weight": 5,
+            "target": "Varys",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 31,
+            "target": "Mirri-Maz-Duur",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 5,
+            "target": "Eddard-Stark",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 5,
+            "target": "Eroeh",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 11,
+            "target": "Aggo",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 25,
+            "target": "Irri",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 4,
+            "target": "Rakharo",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 5,
+            "target": "Quaro",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 12,
+            "target": "Haggo",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 7,
+            "target": "Cohollo",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 18,
+            "target": "Qotho",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 26,
+            "target": "Jhiqui",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 101,
+            "target": "Drogo",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 24,
+            "target": "Illyrio-Mopatis",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 17,
+            "target": "Jhogo",
+            "source": "Daenerys-Targaryen"
+        },
+        {
+            "weight": 4,
+            "target": "Pypar",
+            "source": "Rast"
+        },
+        {
+            "weight": 3,
+            "target": "Halder",
+            "source": "Rast"
+        },
+        {
+            "weight": 3,
+            "target": "Albett",
+            "source": "Rast"
+        },
+        {
+            "weight": 3,
+            "target": "Samwell-Tarly",
+            "source": "Rast"
+        },
+        {
+            "weight": 5,
+            "target": "Alliser-Thorne",
+            "source": "Rast"
+        },
+        {
+            "weight": 11,
+            "target": "Drogo",
+            "source": "Ogo"
+        },
+        {
+            "weight": 4,
+            "target": "Fogo",
+            "source": "Ogo"
+        },
+        {
+            "weight": 3,
+            "target": "Jommo",
+            "source": "Ogo"
+        },
+        {
+            "weight": 5,
+            "target": "Drogo",
+            "source": "Rhaego"
+        },
+        {
+            "weight": 6,
+            "target": "Arya-Stark",
+            "source": "Tomard"
+        },
+        {
+            "weight": 3,
+            "target": "Sansa-Stark",
+            "source": "Tomard"
+        },
+        {
+            "weight": 15,
+            "target": "Eddard-Stark",
+            "source": "Tomard"
+        },
+        {
+            "weight": 6,
+            "target": "Cayn",
+            "source": "Tomard"
+        },
+        {
+            "weight": 17,
+            "target": "Tyrion-Lannister",
+            "source": "Shagga"
+        },
+        {
+            "weight": 9,
+            "target": "Conn",
+            "source": "Shagga"
+        },
+        {
+            "weight": 7,
+            "target": "Dolf",
+            "source": "Shagga"
+        },
+        {
+            "weight": 4,
+            "target": "Timett",
+            "source": "Shagga"
+        },
+        {
+            "weight": 4,
+            "target": "Joffrey-Baratheon",
+            "source": "High-Septon-(fat_one)"
+        },
+        {
+            "weight": 4,
+            "target": "Eddard-Stark",
+            "source": "High-Septon-(fat_one)"
+        },
+        {
+            "weight": 3,
+            "target": "Benjen-Stark",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 18,
+            "target": "Mycah",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Rodrik-Cassel",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 30,
+            "target": "Eddard-Stark",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 7,
+            "target": "Rickon-Stark",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Vayon-Poole",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 13,
+            "target": "Myrcella-Baratheon",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 5,
+            "target": "Catelyn-Stark",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 104,
+            "target": "Sansa-Stark",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 12,
+            "target": "Cersei-Lannister",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 14,
+            "target": "Bran-Stark",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Desmond",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 5,
+            "target": "Tommen-Baratheon",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 39,
+            "target": "Joffrey-Baratheon",
+            "source": "Arya-Stark"
+        },
+        {
+            "weight": 19,
+            "target": "Varys",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Benjen-Stark",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 4,
+            "target": "Janos-Slynt",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 29,
+            "target": "Sansa-Stark",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 69,
+            "target": "Eddard-Stark",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 16,
+            "target": "Jaime-Lannister",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 7,
+            "target": "Myrcella-Baratheon",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 12,
+            "target": "Catelyn-Stark",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 5,
+            "target": "Stannis-Baratheon",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 6,
+            "target": "Bran-Stark",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 9,
+            "target": "Boros-Blount",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 7,
+            "target": "Jon-Arryn",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 27,
+            "target": "Tyrion-Lannister",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 4,
+            "target": "Vayon-Poole",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 12,
+            "target": "Barristan-Selmy",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 4,
+            "target": "Tommen-Baratheon",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 42,
+            "target": "Joffrey-Baratheon",
+            "source": "Cersei-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Quaro",
+            "source": "Aggo"
+        },
+        {
+            "weight": 6,
+            "target": "Drogo",
+            "source": "Aggo"
+        },
+        {
+            "weight": 4,
+            "target": "Jhogo",
+            "source": "Aggo"
+        },
+        {
+            "weight": 7,
+            "target": "Rakharo",
+            "source": "Aggo"
+        },
+        {
+            "weight": 5,
+            "target": "Eddard-Stark",
+            "source": "Joss"
+        },
+        {
+            "weight": 4,
+            "target": "Eddard-Stark",
+            "source": "Desmond"
+        },
+        {
+            "weight": 3,
+            "target": "Catelyn-Stark",
+            "source": "Moreo-Tumitis"
+        },
+        {
+            "weight": 3,
+            "target": "Todder",
+            "source": "Halder"
+        },
+        {
+            "weight": 8,
+            "target": "Pypar",
+            "source": "Halder"
+        },
+        {
+            "weight": 6,
+            "target": "Grenn",
+            "source": "Halder"
+        },
+        {
+            "weight": 3,
+            "target": "Albett",
+            "source": "Halder"
+        },
+        {
+            "weight": 6,
+            "target": "Samwell-Tarly",
+            "source": "Halder"
+        },
+        {
+            "weight": 4,
+            "target": "Alliser-Thorne",
+            "source": "Halder"
+        },
+        {
+            "weight": 7,
+            "target": "Benjen-Stark",
+            "source": "Luwin"
+        },
+        {
+            "weight": 3,
+            "target": "Rodrik-Cassel",
+            "source": "Luwin"
+        },
+        {
+            "weight": 16,
+            "target": "Eddard-Stark",
+            "source": "Luwin"
+        },
+        {
+            "weight": 65,
+            "target": "Bran-Stark",
+            "source": "Luwin"
+        },
+        {
+            "weight": 10,
+            "target": "Theon-Greyjoy",
+            "source": "Luwin"
+        },
+        {
+            "weight": 9,
+            "target": "Rickon-Stark",
+            "source": "Luwin"
+        },
+        {
+            "weight": 10,
+            "target": "Tyrion-Lannister",
+            "source": "Luwin"
+        },
+        {
+            "weight": 4,
+            "target": "Nan",
+            "source": "Luwin"
+        },
+        {
+            "weight": 16,
+            "target": "Osha",
+            "source": "Luwin"
+        },
+        {
+            "weight": 3,
+            "target": "Tommen-Baratheon",
+            "source": "Luwin"
+        },
+        {
+            "weight": 3,
+            "target": "Hullen",
+            "source": "Luwin"
+        },
+        {
+            "weight": 3,
+            "target": "Joseth",
+            "source": "Luwin"
+        },
+        {
+            "weight": 10,
+            "target": "Hodor",
+            "source": "Luwin"
+        },
+        {
+            "weight": 14,
+            "target": "Catelyn-Stark",
+            "source": "Luwin"
+        },
+        {
+            "weight": 3,
+            "target": "Tytos-Blackwood",
+            "source": "Jonos-Bracken"
+        },
+        {
+            "weight": 3,
+            "target": "Jaremy-Rykker",
+            "source": "Benjen-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Waymar-Royce",
+            "source": "Benjen-Stark"
+        },
+        {
+            "weight": 6,
+            "target": "Bran-Stark",
+            "source": "Benjen-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Theon-Greyjoy",
+            "source": "Benjen-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Mance-Rayder",
+            "source": "Benjen-Stark"
+        },
+        {
+            "weight": 8,
+            "target": "Tyrion-Lannister",
+            "source": "Benjen-Stark"
+        },
+        {
+            "weight": 9,
+            "target": "Jeor-Mormont",
+            "source": "Benjen-Stark"
+        },
+        {
+            "weight": 14,
+            "target": "Joffrey-Baratheon",
+            "source": "Mycah"
+        },
+        {
+            "weight": 10,
+            "target": "Sansa-Stark",
+            "source": "Mycah"
+        },
+        {
+            "weight": 3,
+            "target": "Eddard-Stark",
+            "source": "Mycah"
+        },
+        {
+            "weight": 7,
+            "target": "Eddard-Stark",
+            "source": "Tobho-Mott"
+        },
+        {
+            "weight": 12,
+            "target": "Gared",
+            "source": "Will-(prologue)"
+        },
+        {
+            "weight": 18,
+            "target": "Waymar-Royce",
+            "source": "Will-(prologue)"
+        },
+        {
+            "weight": 7,
+            "target": "Tyrion-Lannister",
+            "source": "Alliser-Thorne"
+        },
+        {
+            "weight": 3,
+            "target": "Grenn",
+            "source": "Alliser-Thorne"
+        },
+        {
+            "weight": 3,
+            "target": "Bowen-Marsh",
+            "source": "Alliser-Thorne"
+        },
+        {
+            "weight": 8,
+            "target": "Samwell-Tarly",
+            "source": "Alliser-Thorne"
+        },
+        {
+            "weight": 10,
+            "target": "Jeor-Mormont",
+            "source": "Alliser-Thorne"
+        },
+        {
+            "weight": 4,
+            "target": "Pypar",
+            "source": "Alliser-Thorne"
+        },
+        {
+            "weight": 4,
+            "target": "Tyrion-Lannister",
+            "source": "Willis-Wode"
+        },
+        {
+            "weight": 7,
+            "target": "Rodrik-Cassel",
+            "source": "Willis-Wode"
+        },
+        {
+            "weight": 3,
+            "target": "Chiggen",
+            "source": "Willis-Wode"
+        },
+        {
+            "weight": 4,
+            "target": "Marillion",
+            "source": "Willis-Wode"
+        },
+        {
+            "weight": 5,
+            "target": "Catelyn-Stark",
+            "source": "Willis-Wode"
+        },
+        {
+            "weight": 5,
+            "target": "Tyrion-Lannister",
+            "source": "Kurleket"
+        },
+        {
+            "weight": 3,
+            "target": "Karyl-Vance",
+            "source": "Marq-Piper"
+        },
+        {
+            "weight": 6,
+            "target": "Gregor-Clegane",
+            "source": "Marq-Piper"
+        },
+        {
+            "weight": 3,
+            "target": "Eddard-Stark",
+            "source": "Marq-Piper"
+        },
+        {
+            "weight": 3,
+            "target": "Wyl-(guard)",
+            "source": "Heward"
+        },
+        {
+            "weight": 4,
+            "target": "Tyrion-Lannister",
+            "source": "Rickon-Stark"
+        },
+        {
+            "weight": 8,
+            "target": "Sansa-Stark",
+            "source": "Rickon-Stark"
+        },
+        {
+            "weight": 32,
+            "target": "Bran-Stark",
+            "source": "Rickon-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Eddard-Stark",
+            "source": "Rickon-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Catelyn-Stark",
+            "source": "Rickon-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Quaro",
+            "source": "Qotho"
+        },
+        {
+            "weight": 11,
+            "target": "Haggo",
+            "source": "Qotho"
+        },
+        {
+            "weight": 6,
+            "target": "Cohollo",
+            "source": "Qotho"
+        },
+        {
+            "weight": 9,
+            "target": "Mirri-Maz-Duur",
+            "source": "Qotho"
+        },
+        {
+            "weight": 13,
+            "target": "Drogo",
+            "source": "Qotho"
+        },
+        {
+            "weight": 3,
+            "target": "Eddard-Stark",
+            "source": "Wylla"
+        },
+        {
+            "weight": 10,
+            "target": "Tyrion-Lannister",
+            "source": "Marillion"
+        },
+        {
+            "weight": 5,
+            "target": "Rodrik-Cassel",
+            "source": "Marillion"
+        },
+        {
+            "weight": 6,
+            "target": "Catelyn-Stark",
+            "source": "Marillion"
+        },
+        {
+            "weight": 5,
+            "target": "Tyrion-Lannister",
+            "source": "Chella"
+        },
+        {
+            "weight": 5,
+            "target": "Samwell-Tarly",
+            "source": "Randyll-Tarly"
+        },
+        {
+            "weight": 3,
+            "target": "Hullen",
+            "source": "Harwin"
+        },
+        {
+            "weight": 5,
+            "target": "Eddard-Stark",
+            "source": "Harwin"
+        },
+        {
+            "weight": 3,
+            "target": "Tyrion-Lannister",
+            "source": "Timett"
+        },
+        {
+            "weight": 7,
+            "target": "Tyrion-Lannister",
+            "source": "Gunthor-son-of-Gurn"
+        },
+        {
+            "weight": 7,
+            "target": "Cohollo",
+            "source": "Haggo"
+        },
+        {
+            "weight": 3,
+            "target": "Mirri-Maz-Duur",
+            "source": "Haggo"
+        },
+        {
+            "weight": 9,
+            "target": "Drogo",
+            "source": "Haggo"
+        },
+        {
+            "weight": 3,
+            "target": "Rakharo",
+            "source": "Haggo"
+        },
+        {
+            "weight": 5,
+            "target": "Tyrion-Lannister",
+            "source": "Morrec"
+        },
+        {
+            "weight": 4,
+            "target": "Catelyn-Stark",
+            "source": "Tytos-Blackwood"
+        },
+        {
+            "weight": 5,
+            "target": "Loras-Tyrell",
+            "source": "Beric-Dondarrion"
+        },
+        {
+            "weight": 5,
+            "target": "Thoros-of-Myr",
+            "source": "Beric-Dondarrion"
+        },
+        {
+            "weight": 4,
+            "target": "Sansa-Stark",
+            "source": "Beric-Dondarrion"
+        },
+        {
+            "weight": 3,
+            "target": "Eddard-Stark",
+            "source": "Beric-Dondarrion"
+        },
+        {
+            "weight": 6,
+            "target": "Gregor-Clegane",
+            "source": "Beric-Dondarrion"
+        },
+        {
+            "weight": 8,
+            "target": "Lysa-Arryn",
+            "source": "Robert-Arryn"
+        },
+        {
+            "weight": 9,
+            "target": "Tyrion-Lannister",
+            "source": "Robert-Arryn"
+        },
+        {
+            "weight": 3,
+            "target": "Catelyn-Stark",
+            "source": "Robert-Arryn"
+        },
+        {
+            "weight": 8,
+            "target": "Jeor-Mormont",
+            "source": "Bowen-Marsh"
+        },
+        {
+            "weight": 3,
+            "target": "Samwell-Tarly",
+            "source": "Bowen-Marsh"
+        },
+        {
+            "weight": 3,
+            "target": "Loras-Tyrell",
+            "source": "Mace-Tyrell"
+        },
+        {
+            "weight": 3,
+            "target": "Paxter-Redwyne",
+            "source": "Mace-Tyrell"
+        },
+        {
+            "weight": 3,
+            "target": "Eddard-Stark",
+            "source": "Howland-Reed"
+        },
+        {
+            "weight": 27,
+            "target": "Grenn",
+            "source": "Pypar"
+        },
+        {
+            "weight": 8,
+            "target": "Todder",
+            "source": "Pypar"
+        },
+        {
+            "weight": 11,
+            "target": "Samwell-Tarly",
+            "source": "Pypar"
+        },
+        {
+            "weight": 3,
+            "target": "Janos-Slynt",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 34,
+            "target": "Eddard-Stark",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 14,
+            "target": "Loras-Tyrell",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Jaime-Lannister",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 8,
+            "target": "Myrcella-Baratheon",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Varys",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 9,
+            "target": "Catelyn-Stark",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Stannis-Baratheon",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Maegor-I-Targaryen",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 10,
+            "target": "Bran-Stark",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 6,
+            "target": "Boros-Blount",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Tyrion-Lannister",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Barristan-Selmy",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 5,
+            "target": "Gregor-Clegane",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 87,
+            "target": "Joffrey-Baratheon",
+            "source": "Sansa-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Tregar",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Varly",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Jacks",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 5,
+            "target": "Theon-Greyjoy",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 64,
+            "target": "Catelyn-Stark",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Porther",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 19,
+            "target": "Bran-Stark",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 47,
+            "target": "Jon-Arryn",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 21,
+            "target": "Tyrion-Lannister",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 12,
+            "target": "Loras-Tyrell",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 28,
+            "target": "Barristan-Selmy",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 10,
+            "target": "Gregor-Clegane",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 61,
+            "target": "Varys",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Gendry",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 7,
+            "target": "Rodrik-Cassel",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Wyl-(guard)",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Balon-Greyjoy",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 12,
+            "target": "Lysa-Arryn",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Galbart-Glover",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 27,
+            "target": "Jaime-Lannister",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Daryn-Hornwood",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 18,
+            "target": "Stannis-Baratheon",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Janos-Slynt",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 12,
+            "target": "Vayon-Poole",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 7,
+            "target": "Cayn",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 26,
+            "target": "Joffrey-Baratheon",
+            "source": "Eddard-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Drogo",
+            "source": "Rakharo"
+        },
+        {
+            "weight": 6,
+            "target": "Quaro",
+            "source": "Rakharo"
+        },
+        {
+            "weight": 17,
+            "target": "Bran-Stark",
+            "source": "Nan"
+        },
+        {
+            "weight": 8,
+            "target": "Hodor",
+            "source": "Nan"
+        },
+        {
+            "weight": 3,
+            "target": "Catelyn-Stark",
+            "source": "Donnel-Waynwood"
+        },
+        {
+            "weight": 4,
+            "target": "Bran-Stark",
+            "source": "Joseth"
+        },
+        {
+            "weight": 6,
+            "target": "Tommen-Baratheon",
+            "source": "Myrcella-Baratheon"
+        },
+        {
+            "weight": 5,
+            "target": "Joffrey-Baratheon",
+            "source": "Myrcella-Baratheon"
+        },
+        {
+            "weight": 10,
+            "target": "Lysa-Arryn",
+            "source": "Brynden-Tully"
+        },
+        {
+            "weight": 4,
+            "target": "Tyrion-Lannister",
+            "source": "Brynden-Tully"
+        },
+        {
+            "weight": 7,
+            "target": "Jaime-Lannister",
+            "source": "Brynden-Tully"
+        },
+        {
+            "weight": 6,
+            "target": "Theon-Greyjoy",
+            "source": "Brynden-Tully"
+        },
+        {
+            "weight": 5,
+            "target": "Hoster-Tully",
+            "source": "Brynden-Tully"
+        },
+        {
+            "weight": 16,
+            "target": "Catelyn-Stark",
+            "source": "Brynden-Tully"
+        },
+        {
+            "weight": 3,
+            "target": "Colemon",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Mychel-Redfort",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 25,
+            "target": "Rodrik-Cassel",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 9,
+            "target": "Theon-Greyjoy",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 33,
+            "target": "Lysa-Arryn",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 9,
+            "target": "Mya-Stone",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 5,
+            "target": "Masha-Heddle",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 6,
+            "target": "Hoster-Tully",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 10,
+            "target": "Varys",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Wendel-Manderly",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 18,
+            "target": "Bran-Stark",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 11,
+            "target": "Jon-Arryn",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 9,
+            "target": "Jaime-Lannister",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 49,
+            "target": "Tyrion-Lannister",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 4,
+            "target": "Joffrey-Baratheon",
+            "source": "Catelyn-Stark"
+        },
+        {
+            "weight": 8,
+            "target": "Grenn",
+            "source": "Samwell-Tarly"
+        },
+        {
+            "weight": 8,
+            "target": "Jeor-Mormont",
+            "source": "Samwell-Tarly"
+        },
+        {
+            "weight": 13,
+            "target": "Stannis-Baratheon",
+            "source": "Jon-Arryn"
+        },
+        {
+            "weight": 5,
+            "target": "Tyrion-Lannister",
+            "source": "Jon-Arryn"
+        },
+        {
+            "weight": 5,
+            "target": "Varys",
+            "source": "Jon-Arryn"
+        },
+        {
+            "weight": 7,
+            "target": "Bran-Stark",
+            "source": "Jon-Arryn"
+        },
+        {
+            "weight": 3,
+            "target": "Hugh",
+            "source": "Jon-Arryn"
+        },
+        {
+            "weight": 12,
+            "target": "Lysa-Arryn",
+            "source": "Jon-Arryn"
+        },
+        {
+            "weight": 4,
+            "target": "Barristan-Selmy",
+            "source": "Jon-Arryn"
+        },
+        {
+            "weight": 5,
+            "target": "Jaime-Lannister",
+            "source": "Jon-Arryn"
+        },
+        {
+            "weight": 23,
+            "target": "Jeor-Mormont",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 31,
+            "target": "Bran-Stark",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 5,
+            "target": "Chiggen",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Tommen-Baratheon",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 12,
+            "target": "Shae",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 20,
+            "target": "Mord",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 10,
+            "target": "Rodrik-Cassel",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Theon-Greyjoy",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 25,
+            "target": "Lysa-Arryn",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 36,
+            "target": "Jaime-Lannister",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 7,
+            "target": "Gregor-Clegane",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Varys",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 6,
+            "target": "Conn",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 13,
+            "target": "Joffrey-Baratheon",
+            "source": "Tyrion-Lannister"
+        },
+        {
+            "weight": 4,
+            "target": "Clement-Piper",
+            "source": "Karyl-Vance"
+        },
+        {
+            "weight": 10,
+            "target": "Loras-Tyrell",
+            "source": "Gregor-Clegane"
+        },
+        {
+            "weight": 3,
+            "target": "Jaime-Lannister",
+            "source": "Gregor-Clegane"
+        },
+        {
+            "weight": 3,
+            "target": "Jared-Frey",
+            "source": "Danwell-Frey"
+        },
+        {
+            "weight": 3,
+            "target": "Hosteen-Frey",
+            "source": "Danwell-Frey"
+        },
+        {
+            "weight": 3,
+            "target": "Drogo",
+            "source": "Jommo"
+        },
+        {
+            "weight": 7,
+            "target": "Todder",
+            "source": "Grenn"
+        },
+        {
+            "weight": 3,
+            "target": "Jeor-Mormont",
+            "source": "Grenn"
+        },
+        {
+            "weight": 3,
+            "target": "Jaime-Lannister",
+            "source": "Wyl-(guard)"
+        },
+        {
+            "weight": 4,
+            "target": "Stannis-Baratheon",
+            "source": "Lysa-Arryn"
+        },
+        {
+            "weight": 6,
+            "target": "Jaime-Lannister",
+            "source": "Lysa-Arryn"
+        },
+        {
+            "weight": 3,
+            "target": "Hoster-Tully",
+            "source": "Lysa-Arryn"
+        },
+        {
+            "weight": 6,
+            "target": "Rodrik-Cassel",
+            "source": "Theon-Greyjoy"
+        },
+        {
+            "weight": 23,
+            "target": "Bran-Stark",
+            "source": "Theon-Greyjoy"
+        },
+        {
+            "weight": 3,
+            "target": "Drogo",
+            "source": "Quaro"
+        },
+        {
+            "weight": 3,
+            "target": "Jaime-Lannister",
+            "source": "Galbart-Glover"
+        },
+        {
+            "weight": 3,
+            "target": "Roose-Bolton",
+            "source": "Galbart-Glover"
+        },
+        {
+            "weight": 9,
+            "target": "Drogo",
+            "source": "Cohollo"
+        },
+        {
+            "weight": 5,
+            "target": "Conn",
+            "source": "Coratt"
+        },
+        {
+            "weight": 4,
+            "target": "Barristan-Selmy",
+            "source": "Jaime-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Varys",
+            "source": "Jaime-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Addam-Marbrand",
+            "source": "Jaime-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Harys-Swyft",
+            "source": "Jaime-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Rodrik-Cassel",
+            "source": "Jaime-Lannister"
+        },
+        {
+            "weight": 3,
+            "target": "Loras-Tyrell",
+            "source": "Jaime-Lannister"
+        },
+        {
+            "weight": 12,
+            "target": "Joffrey-Baratheon",
+            "source": "Jaime-Lannister"
+        },
+        {
+            "weight": 5,
+            "target": "Varys",
+            "source": "Stannis-Baratheon"
+        },
+        {
+            "weight": 7,
+            "target": "Joffrey-Baratheon",
+            "source": "Stannis-Baratheon"
+        },
+        {
+            "weight": 12,
+            "target": "Bran-Stark",
+            "source": "Osha"
+        },
+        {
+            "weight": 12,
+            "target": "Mirri-Maz-Duur",
+            "source": "Drogo"
+        },
+        {
+            "weight": 16,
+            "target": "Illyrio-Mopatis",
+            "source": "Drogo"
+        },
+        {
+            "weight": 9,
+            "target": "Irri",
+            "source": "Drogo"
+        },
+        {
+            "weight": 5,
+            "target": "Jhiqui",
+            "source": "Drogo"
+        },
+        {
+            "weight": 7,
+            "target": "Jhogo",
+            "source": "Drogo"
+        },
+        {
+            "weight": 14,
+            "target": "Irri",
+            "source": "Jhiqui"
+        },
+        {
+            "weight": 4,
+            "target": "Bran-Stark",
+            "source": "Rickard-Stark"
+        },
+        {
+            "weight": 11,
+            "target": "Jeor-Mormont",
+            "source": "Jaremy-Rykker"
+        },
+        {
+            "weight": 3,
+            "target": "Jhogo",
+            "source": "Mirri-Maz-Duur"
+        },
+        {
+            "weight": 3,
+            "target": "Irri",
+            "source": "Illyrio-Mopatis"
+        },
+        {
+            "weight": 13,
+            "target": "Gared",
+            "source": "Waymar-Royce"
+        },
+        {
+            "weight": 29,
+            "target": "Bran-Stark",
+            "source": "Hodor"
+        },
+        {
+            "weight": 4,
+            "target": "Gared",
+            "source": "Jeor-Mormont"
+        },
+        {
+            "weight": 4,
+            "target": "Bran-Stark",
+            "source": "Jeor-Mormont"
+        },
+        {
+            "weight": 4,
+            "target": "Joffrey-Baratheon",
+            "source": "Janos-Slynt"
+        },
+        {
+            "weight": 6,
+            "target": "Bran-Stark",
+            "source": "Rodrik-Cassel"
+        },
+        {
+            "weight": 3,
+            "target": "Loras-Tyrell",
+            "source": "Rodrik-Cassel"
+        },
+        {
+            "weight": 3,
+            "target": "Hullen",
+            "source": "Rodrik-Cassel"
+        },
+        {
+            "weight": 9,
+            "target": "Joffrey-Baratheon",
+            "source": "Rodrik-Cassel"
+        },
+        {
+            "weight": 5,
+            "target": "Tommen-Baratheon",
+            "source": "Bran-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Hullen",
+            "source": "Bran-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Hali",
+            "source": "Bran-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Joffrey-Baratheon",
+            "source": "Bran-Stark"
+        },
+        {
+            "weight": 3,
+            "target": "Jared-Frey",
+            "source": "Hosteen-Frey"
+        },
+        {
+            "weight": 9,
+            "target": "Varys",
+            "source": "Barristan-Selmy"
+        },
+        {
+            "weight": 3,
+            "target": "Boros-Blount",
+            "source": "Barristan-Selmy"
+        },
+        {
+            "weight": 6,
+            "target": "Joffrey-Baratheon",
+            "source": "Barristan-Selmy"
+        },
+        {
+            "weight": 8,
+            "target": "Joffrey-Baratheon",
+            "source": "Tommen-Baratheon"
+        },
+        {
+            "weight": 7,
+            "target": "Jhogo",
+            "source": "Irri"
+        },
+        {
+            "weight": 3,
+            "target": "Joffrey-Baratheon",
+            "source": "Loras-Tyrell"
+        },
+        {
+            "weight": 7,
+            "target": "Joffrey-Baratheon",
+            "source": "Varys"
+        },
+        {
+            "weight": 3,
+            "target": "Joffrey-Baratheon",
+            "source": "Boros-Blount"
+        }
+    ],
+    "nodes": [
+        {
+            "group": 5,
+            "id": "Doreah",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 5,
+            "id": "Aegon-I-Targaryen",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Robert-Baratheon",
+            "centrality": 0.2688172043010753
+        },
+        {
+            "group": 1,
+            "id": "Leo-Lefford",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 5,
+            "id": "Viserys-Targaryen",
+            "centrality": 0.043010752688172046
+        },
+        {
+            "group": 1,
+            "id": "Arys-Oakheart",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Arthur-Dayne",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Bronn",
+            "centrality": 0.05376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Renly-Baratheon",
+            "centrality": 0.09677419354838711
+        },
+        {
+            "group": 1,
+            "id": "Syrio-Forel",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 1,
+            "id": "Edmure-Tully",
+            "centrality": 0.05913978494623656
+        },
+        {
+            "group": 6,
+            "id": "Aemon-Targaryen-(Maester-Aemon)",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 1,
+            "id": "Brandon-Stark",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 1,
+            "id": "Vardis-Egen",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 3,
+            "id": "Hallis-Mollen",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 1,
+            "id": "Walder-Frey",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 1,
+            "id": "Torrhen-Karstark",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 1,
+            "id": "Jyck",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 6,
+            "id": "Dareon",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Aerys-II-Targaryen",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 1,
+            "id": "Rhaegar-Targaryen",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 7,
+            "id": "Ulf-son-of-Umar",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Jon-Snow",
+            "centrality": 0.19892473118279572
+        },
+        {
+            "group": 1,
+            "id": "Lyn-Corbray",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Kevan-Lannister",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 1,
+            "id": "Yoren",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 1,
+            "id": "Raymun-Darry",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Meryn-Trant",
+            "centrality": 0.048387096774193554
+        },
+        {
+            "group": 1,
+            "id": "Gerold-Hightower",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 1,
+            "id": "Ilyn-Payne",
+            "centrality": 0.048387096774193554
+        },
+        {
+            "group": 5,
+            "id": "Jorah-Mormont",
+            "centrality": 0.06989247311827958
+        },
+        {
+            "group": 1,
+            "id": "Pycelle",
+            "centrality": 0.07526881720430108
+        },
+        {
+            "group": 1,
+            "id": "Tywin-Lannister",
+            "centrality": 0.11827956989247312
+        },
+        {
+            "group": 1,
+            "id": "Nestor-Royce",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Stevron-Frey",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 3,
+            "id": "Rickard-Karstark",
+            "centrality": 0.05376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Chett",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 1,
+            "id": "Alyn",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 1,
+            "id": "Jory-Cassel",
+            "centrality": 0.11290322580645162
+        },
+        {
+            "group": 6,
+            "id": "Jafer-Flowers",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Lyanna-Stark",
+            "centrality": 0.021505376344086023
+        },
+        {
+            "group": 1,
+            "id": "Mordane",
+            "centrality": 0.05913978494623656
+        },
+        {
+            "group": 1,
+            "id": "Jeyne-Poole",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 3,
+            "id": "Robb-Stark",
+            "centrality": 0.18817204301075272
+        },
+        {
+            "group": 1,
+            "id": "Eon-Hunter",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 3,
+            "id": "Stiv",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Petyr-Baelish",
+            "centrality": 0.13978494623655915
+        },
+        {
+            "group": 1,
+            "id": "Sandor-Clegane",
+            "centrality": 0.08602150537634409
+        },
+        {
+            "group": 3,
+            "id": "Jon-Umber-(Greatjon)",
+            "centrality": 0.043010752688172046
+        },
+        {
+            "group": 5,
+            "id": "Daenerys-Targaryen",
+            "centrality": 0.11290322580645162
+        },
+        {
+            "group": 6,
+            "id": "Rast",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 5,
+            "id": "Ogo",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 6,
+            "id": "Hobb",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 5,
+            "id": "Rhaego",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Tomard",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 7,
+            "id": "Shagga",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 1,
+            "id": "High-Septon-(fat_one)",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Arya-Stark",
+            "centrality": 0.14516129032258066
+        },
+        {
+            "group": 1,
+            "id": "Cersei-Lannister",
+            "centrality": 0.16129032258064518
+        },
+        {
+            "group": 5,
+            "id": "Aggo",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 1,
+            "id": "Joss",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Desmond",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Moreo-Tumitis",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Halder",
+            "centrality": 0.043010752688172046
+        },
+        {
+            "group": 3,
+            "id": "Luwin",
+            "centrality": 0.09677419354838711
+        },
+        {
+            "group": 1,
+            "id": "Jonos-Bracken",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Benjen-Stark",
+            "centrality": 0.07526881720430108
+        },
+        {
+            "group": 6,
+            "id": "Othor",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Mycah",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 1,
+            "id": "Tobho-Mott",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 2,
+            "id": "Will-(prologue)",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 6,
+            "id": "Alliser-Thorne",
+            "centrality": 0.05376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Willis-Wode",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 1,
+            "id": "Kurleket",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Marq-Piper",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 1,
+            "id": "Heward",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 3,
+            "id": "Rickon-Stark",
+            "centrality": 0.048387096774193554
+        },
+        {
+            "group": 5,
+            "id": "Qotho",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 1,
+            "id": "Wylla",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Marillion",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 7,
+            "id": "Dolf",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Chella",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Randyll-Tarly",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Harwin",
+            "centrality": 0.021505376344086023
+        },
+        {
+            "group": 6,
+            "id": "Albett",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 7,
+            "id": "Timett",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Gunthor-son-of-Gurn",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 5,
+            "id": "Haggo",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 1,
+            "id": "Morrec",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Tytos-Blackwood",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 1,
+            "id": "Beric-Dondarrion",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 1,
+            "id": "Robert-Arryn",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 6,
+            "id": "Bowen-Marsh",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 8,
+            "id": "Mace-Tyrell",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 8,
+            "id": "Paxter-Redwyne",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Howland-Reed",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Pypar",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 1,
+            "id": "Sansa-Stark",
+            "centrality": 0.18817204301075272
+        },
+        {
+            "group": 1,
+            "id": "Eddard-Stark",
+            "centrality": 0.3548387096774194
+        },
+        {
+            "group": 6,
+            "id": "Mance-Rayder",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Balon-Swann",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 5,
+            "id": "Rakharo",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 3,
+            "id": "Nan",
+            "centrality": 0.021505376344086023
+        },
+        {
+            "group": 1,
+            "id": "Donnel-Waynwood",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 3,
+            "id": "Joseth",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Myrcella-Baratheon",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 1,
+            "id": "Brynden-Tully",
+            "centrality": 0.05913978494623656
+        },
+        {
+            "group": 1,
+            "id": "Catelyn-Stark",
+            "centrality": 0.23118279569892475
+        },
+        {
+            "group": 1,
+            "id": "Porther",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Samwell-Tarly",
+            "centrality": 0.06451612903225806
+        },
+        {
+            "group": 1,
+            "id": "Jon-Arryn",
+            "centrality": 0.08064516129032259
+        },
+        {
+            "group": 1,
+            "id": "Tyrion-Lannister",
+            "centrality": 0.24731182795698928
+        },
+        {
+            "group": 1,
+            "id": "Karyl-Vance",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 1,
+            "id": "Shae",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Balon-Greyjoy",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Gregor-Clegane",
+            "centrality": 0.06451612903225806
+        },
+        {
+            "group": 4,
+            "id": "Danwell-Frey",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 5,
+            "id": "Eroeh",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 5,
+            "id": "Jommo",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Mychel-Redfort",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Grenn",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 1,
+            "id": "Wyl-(guard)",
+            "centrality": 0.021505376344086023
+        },
+        {
+            "group": 1,
+            "id": "Lysa-Arryn",
+            "centrality": 0.08064516129032259
+        },
+        {
+            "group": 3,
+            "id": "Theon-Greyjoy",
+            "centrality": 0.08064516129032259
+        },
+        {
+            "group": 6,
+            "id": "Clydas",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 5,
+            "id": "Quaro",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 3,
+            "id": "Galbart-Glover",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 5,
+            "id": "Cohollo",
+            "centrality": 0.021505376344086023
+        },
+        {
+            "group": 7,
+            "id": "Coratt",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Jaime-Lannister",
+            "centrality": 0.15591397849462366
+        },
+        {
+            "group": 1,
+            "id": "Stannis-Baratheon",
+            "centrality": 0.06451612903225806
+        },
+        {
+            "group": 7,
+            "id": "Conn",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 5,
+            "id": "Fogo",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Lancel-Lannister",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 3,
+            "id": "Osha",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 5,
+            "id": "Drogo",
+            "centrality": 0.10215053763440861
+        },
+        {
+            "group": 5,
+            "id": "Jhiqui",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 1,
+            "id": "Cayn",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 3,
+            "id": "Rickard-Stark",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Colemon",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 6,
+            "id": "Jaremy-Rykker",
+            "centrality": 0.021505376344086023
+        },
+        {
+            "group": 5,
+            "id": "Mirri-Maz-Duur",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 1,
+            "id": "Chiggen",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 6,
+            "id": "Todder",
+            "centrality": 0.021505376344086023
+        },
+        {
+            "group": 1,
+            "id": "Hugh",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Vayon-Poole",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 5,
+            "id": "Illyrio-Mopatis",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 2,
+            "id": "Waymar-Royce",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 1,
+            "id": "Varly",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 3,
+            "id": "Roose-Bolton",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 3,
+            "id": "Hodor",
+            "centrality": 0.021505376344086023
+        },
+        {
+            "group": 6,
+            "id": "Jeor-Mormont",
+            "centrality": 0.06989247311827958
+        },
+        {
+            "group": 1,
+            "id": "Janos-Slynt",
+            "centrality": 0.03763440860215054
+        },
+        {
+            "group": 1,
+            "id": "Thoros-of-Myr",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Addam-Marbrand",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Harys-Swyft",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Rodrik-Cassel",
+            "centrality": 0.09677419354838711
+        },
+        {
+            "group": 3,
+            "id": "Bran-Stark",
+            "centrality": 0.17204301075268819
+        },
+        {
+            "group": 1,
+            "id": "Oswell-Whent",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Donal-Noye",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 4,
+            "id": "Hosteen-Frey",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Barristan-Selmy",
+            "centrality": 0.07526881720430108
+        },
+        {
+            "group": 1,
+            "id": "Tommen-Baratheon",
+            "centrality": 0.043010752688172046
+        },
+        {
+            "group": 3,
+            "id": "Hali",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 3,
+            "id": "Maege-Mormont",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Maegor-I-Targaryen",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Gendry",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 5,
+            "id": "Irri",
+            "centrality": 0.043010752688172046
+        },
+        {
+            "group": 1,
+            "id": "Loras-Tyrell",
+            "centrality": 0.07526881720430108
+        },
+        {
+            "group": 1,
+            "id": "Mya-Stone",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Masha-Heddle",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Tregar",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Hullen",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 4,
+            "id": "Jared-Frey",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Hoster-Tully",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 1,
+            "id": "Wendel-Manderly",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 1,
+            "id": "Varys",
+            "centrality": 0.0913978494623656
+        },
+        {
+            "group": 1,
+            "id": "Daryn-Hornwood",
+            "centrality": 0.010752688172043012
+        },
+        {
+            "group": 6,
+            "id": "Dywen",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 6,
+            "id": "Matthar",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 2,
+            "id": "Gared",
+            "centrality": 0.016129032258064516
+        },
+        {
+            "group": 1,
+            "id": "Jacks",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Mord",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 1,
+            "id": "Clement-Piper",
+            "centrality": 0.005376344086021506
+        },
+        {
+            "group": 5,
+            "id": "Jhogo",
+            "centrality": 0.03225806451612903
+        },
+        {
+            "group": 1,
+            "id": "Boros-Blount",
+            "centrality": 0.02688172043010753
+        },
+        {
+            "group": 1,
+            "id": "Joffrey-Baratheon",
+            "centrality": 0.16129032258064518
+        }
+    ],
+    "directed": false
+}
